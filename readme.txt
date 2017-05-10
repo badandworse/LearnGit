@@ -1,5 +1,5 @@
 Git is a distribute version control system.
-Git is free system distributed under the GPL
+Git is a free system distributed under the GPL
 Git has a mutable index called stage
 Git tracks changes of files.
 creating a new branch is quick
@@ -7,4 +7,3 @@ Creating a new branch is quick and simple
 
 dsda
 test
-git dev branch test
